@@ -4,7 +4,7 @@ A Java-based system designed to manage events, users, tickets, and registrations
 This project demonstrates clean architecture, DAO pattern, multithreading, and proper database connectivity.
 
 # Features
-Admin
+## Admin
 
 Manage user accounts
 
@@ -12,7 +12,7 @@ Approve or reject events
 
 Monitor system activities
 
-Event Organizer
+## Event Organizer
 
 Create and manage events
 
@@ -20,7 +20,7 @@ Handle ticket pricing and availability
 
 Communicate with attendees
 
-Attendee
+## Attendee
 
 Register for events
 
