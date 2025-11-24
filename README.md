@@ -1,9 +1,9 @@
-#Online Event Management System
+# Online Event Management System
 
 A Java-based system designed to manage events, users, tickets, and registrations using Core Java, OOP, JDBC, and MySQL.
 This project demonstrates clean architecture, DAO pattern, multithreading, and proper database connectivity.
 
-#Features
+# Features
 Admin
 
 Manage user accounts
@@ -28,7 +28,7 @@ Purchase tickets
 
 Receive notifications
 
-#Tech Stack
+# Tech Stack
 
 Java (Core Java, OOP, Multithreading)
 
