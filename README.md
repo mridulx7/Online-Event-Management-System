@@ -100,3 +100,21 @@ Synchronization
 TicketBooking.java uses synchronized method
 
 Prevents race conditions while booking tickets
+
+# Database Schema
+
+Database Name: eventdb
+
+Tables:
+
+users
+
+events
+
+tickets
+
+registrations
+
+messages
+
+Includes foreign keys and relationships.
